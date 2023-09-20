@@ -1,4 +1,10 @@
+1-2. 
+![Captura de pantalla 2023-09-20 132638](https://github.com/JPelegrin021/despliegue-de-aplicaciones-web/assets/144775334/0410b6f3-06df-4ac5-a5d9-9d290ba108ee)
+
+
 3. El servidor asigna una sesion al cliente, asigna un token a la sesion y una vez a recibido la peticion con el user y la contraseña asigna una cuenta a la sesion del cliente. Para mas seguridad para enviar la informacion de inicio de sesion anteriormente se nos asignara un token llamado: logintoken. El cual sirve para "controlar" y traquear las peticiones de inicio de sesion.
+![Captura de pantalla 2023-09-20 133120](https://github.com/JPelegrin021/despliegue-de-aplicaciones-web/assets/144775334/b04cfa79-cede-4903-b3eb-f526861ead14)
+
 
 
 4. Puerto HTTP: Las peticiones HTTP suelen recibir en el puerto 80 para conexiones no seguras (HTTP) y en el puerto 443 para conexiones seguras (HTTPS).
